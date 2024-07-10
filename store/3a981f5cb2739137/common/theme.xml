@@ -17871,6 +17871,9 @@
   <prop id="ncc_02sword05.swf" name="Silver blade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12314" money="0" sharing="0" handstyle="stick"/>
   <prop id="ncc_02sword06.swf" name="Golden blade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12315" money="0" sharing="0" handstyle="stick"/>
   <prop id="ncc_02sword07.swf" name="Machete" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12316" money="0" sharing="0" handstyle="stick"/>
+  <prop id="thumb-0000000.png" name="Boris Anderson" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12316" money="0" sharing="0" handstyle="stick"/>
+  <prop id="thumb-0000001.png" name="Caillou Mall" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12316" money="0" sharing="0" handstyle="stick"/>
+  <prop id="thumb-0000003.png" name="Behavior Card Day" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12316" money="0" sharing="0" handstyle="stick"/>
   <prop id="ncc_02sword08.swf" name="Thick blade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12317" money="0" sharing="0" handstyle="stick"/>
   <prop id="ncc_02sword09.swf" name="Golden sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12318" money="0" sharing="0" handstyle="stick"/>
   <prop id="ncc_02sword10.swf" name="Emerald sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12319" money="0" sharing="0" handstyle="stick"/>
