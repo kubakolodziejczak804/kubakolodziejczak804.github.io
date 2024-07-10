@@ -3918,7 +3918,6 @@
 	<prop id="bar_light_02.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9806" money="0" sharing="0"/>
 	<prop id="bar_stool.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9807" money="0" sharing="0"/>
 	<prop id="living_room_sofa.swf" name="Sofa" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9797" money="0" sharing="0"/>
-	<prop id="DM4_Tsr1Sht17_RGB_2SM.jpg" name="Despicable Me 4 Poster" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9798" money="0" sharing="0"/>
 
 
 	<char id="53773026" enc_asset_id="0c_RaVgezVcM" name="Diesel Busters" cc_theme_id="family" thumbnail_url="char-default.png" copyable="Y">
