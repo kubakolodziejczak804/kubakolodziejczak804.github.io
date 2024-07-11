@@ -58,9 +58,11 @@
 <prop id="basement_steps.png" name="Basement Steps" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6651" money="0" sharing="0"/>
 <prop id="bandicam_box.png" name="Bandicam Box" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3235" money="0" sharing="0" />
 <prop id="AVS_Video_Editor_logo.png" name="AVS Video Editor Icon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3236" money="0" sharing="0" />
+<prop id="Wrapper_offline_2023.png" name="Wrapper Offline Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3233" money="0" sharing="0" />
 <prop id="cryin.swf" name="Crying" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6652" money="0" sharing="0"/>
 <prop id="scream.swf" name="Screaming" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6653" money="0" sharing="0"/>
 <prop id="Bandicam-official-logo-dark.png" name="Bandicam Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3233" money="0" sharing="0" />
+<prop id="Kuba Kolodziejczak.jpg" name="Kuba Kolodziejczak" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3233" money="0" sharing="0" />
 <prop id="Bandicam-official-icon.png" name="Bandicam Icon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3234" money="0" sharing="0" />
 <prop id="bruh.swf" name="Bruh" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6654" money="0" sharing="0"/>
 <background id="bg01.swf" name="MAIN" enable="Y" default="Y" is_premium="N" aid="6656" money="0" sharing="0"/>
