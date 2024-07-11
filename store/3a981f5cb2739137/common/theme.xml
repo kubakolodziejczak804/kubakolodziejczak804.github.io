@@ -16748,7 +16748,7 @@
     <state id="GoAnimate_Network.swf" name="v1" enable="Y" default="Y"/>
     <state id="GoAnimate_Network_logo_v2.swf" name="v2" enable="Y"/>
   </prop>
-  <prop id="msp_movie_poster" name="Movie Poster 2024" holdable="0" placeable="1" wearable="0" facing="left" thumb="GoAnimate_Network.swf" enable="Y" is_premium="Y" aid="11350" money="0" sharing="0">
+  <prop id="msp_movie_poster" name="Movie Poster 2024" holdable="0" placeable="1" wearable="0" facing="left" thumb="DM4_Tsr1Sht17_RGB_2SM.jpg" enable="Y" is_premium="Y" aid="11350" money="0" sharing="0">
     <state id="DM4_Tsr1Sht17_RGB_2SM.jpg" name="DM4" enable="Y" default="Y"/>
     <state id="OIP (5).jpg" name="Inside Out 2" enable="Y"/>
     <state id="OIP (6).jpg" name="The Kingdom Of The Planet Of The Apes" enable="Y"/>
