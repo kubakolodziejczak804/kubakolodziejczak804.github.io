@@ -94,6 +94,15 @@
         <action id="angry.swf" name="Angry" loop="Y" totalframe="1" enable="Y" aid="60"/>
         </category>
 	</char>
+        <prop id="msp_movie_poster" name="Movie Poster" holdable="0" placeable="1" wearable="0" facing="left" thumb="DM4_Tsr1Sht17_RGB_2SM.jpg" enable="Y" is_premium="Y" aid="11350" money="0" sharing="0">
+    <state id="DM4_Tsr1Sht17_RGB_2SM.jpg" name="DM4" enable="Y" default="Y"/>
+    <state id="OIP (5).jpg" name="Inside Out 2" enable="Y"/>
+    <state id="OIP (6).jpg" name="The Kingdom Of The Planet Of The Apes" enable="Y"/>
+    <state id="OIP (7).jpg" name="Kung Fu Panda 4" enable="Y"/>
+    <state id="OIP (8).jpg" name="The Garfield Movie" enable="Y"/>
+    <state id="OIF.jpg" name="TWISTERS" enable="Y"/>
+    <state id="R.jpg" name="Wonka Movie" enable="Y"/>
+  </prop>
         <prop id="basketball.swf" name="Basketball" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
         <prop id="a72bxhuy.png" name="Sony Vegas 14.0 Icon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
 	<prop id="R (4).png" name="Google Chrome Icon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
