@@ -1,3 +1,3 @@
-# Welcome To GoAnimate4SchoolsRemasteredAssets!
+# Welcome To GoAniFire-2024 Assets!
 
-Feel free to edit!
+Feel free to use!
