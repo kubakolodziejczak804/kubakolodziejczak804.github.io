@@ -29,6 +29,13 @@
         <action id="plush.swf" name="Plush" loop="Y" totalframe="1" enable="Y" aid="60"/>
         </category>
 	</char>
+        <char id="pomni_new" name="(NEW) Pomni" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
+        <tag>cat:Kuba's Characters</tag>
+        <category name="Actions">
+        <action id="stand.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        <action id="plush.swf" name="Plush" loop="Y" totalframe="1" enable="Y" aid="60"/>
+        </category>
+	</char>
         <char id="reallifekuba_old" name="Real Life Kuba (Old)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="60" money="0" sharing="0">
         <tag>cat:Kuba's Characters</tag>
         <category name="Actions">
@@ -93,6 +100,7 @@
 	<prop id="R (5).png" name="Erm... What The Sigma" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
 <prop id="OIP (10).jpg" name="Oi Oi Oi" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
 <prop id="5adpyvt9.png" name="YouTube Terminated" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
+<prop id="Wrapper Online Diamond Logo.png" name="Wrapper Online Diamond (Logo 2024)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
 <prop id="04i4r53s.png" name="YouTube Terminated Appeal" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
 <prop id="rmclcdvd.png" name="YouTube Terminated Message" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
 <prop id="z0s41f5p.png" name="Sony Vegas 17.0 Icon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3203" money="0" sharing="0" />
