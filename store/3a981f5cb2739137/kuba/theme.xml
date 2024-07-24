@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <theme id="kuba" name="Kuba's World">
         <background id="1720.swf" name="Mcdonald's"/>
+        <background id="1721.swf" name="Pomni's Restaurant"/>
         <background id="kubabackground.swf" name="Kuba's Background"/>
         <background id="busstop.swf" name="Bus Stop"/>
         <background id="businside.swf" name="Bus Inside"/>
